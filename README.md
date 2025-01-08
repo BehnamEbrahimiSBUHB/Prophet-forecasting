@@ -1,6 +1,6 @@
 # Facebook Prophet Documentation Generated with NotebookLM
 
-This repository contains documentation inspired by and based on the [Facebook Prophet](https://github.com/facebook/prophet) time-series forecasting library. The documents here were not directly copied but rather *generated* using **NotebookLM**[NotebookLM](https://notebooklm.google.com/) through a process of careful prompting and conversational refinement.
+This repository contains documentation inspired by and based on the [Facebook Prophet](https://github.com/facebook/prophet) time-series forecasting library. The documents here were not directly copied but rather *generated* using [**NotebookLM**](https://notebooklm.google.com/) through a process of careful prompting and conversational refinement.
 
 ## How These Documents Were Created
 
